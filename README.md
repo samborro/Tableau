@@ -12,7 +12,7 @@ Using the Source Health Data, I produced some graphics in Tableau that showed th
 2. Average BMI vs Average life expectancy
 3. Average blood pressure by country
 
-###Results
+### Results
 
 For each category, the visualistions of this data shows you at a glance the visual representation of what each analysis represents in terms of comparisons instead of having to trawl through hundreds or thousands of lines of raw data. 
 1. [Average life expectancy vs gender by continent](life expectancy vs gender by continent.jpg)
