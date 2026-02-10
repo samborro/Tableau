@@ -16,7 +16,7 @@ Using the Source Health Data, I produced some graphics in Tableau that showed th
 
 For each category, the visualistions of this data shows you at a glance the visual representation of what each analysis represents in terms of comparisons instead of having to trawl through hundreds or thousands of lines of raw data. 
 1. [Average life expectancy vs gender by continent](https://github.com/samborro/Tableau/blob/main/life%20expectancy%20vs%20gender%20by%20continent.jpg)
-   ![Average life expectancy vs gender by continent](life expectancy vs gender by continent.jpg)
+   ![](life expectancy vs gender by continent.jpg)
 For average life expectancy vs gender by continent, we can see that for most continents (Asia was an exception, but not by much), the populations of males to females is virtually identical, yet, on all continents, men on average live longer than women. The NHS could use this to focus more resources into certain medical issues that seem to affect women more than men (or only would affect women) to help overcome this disparity.
 2. [Average BMI vs Average life expectancy](https://github.com/samborro/Tableau/blob/main/BMI%20vs%20life%20expectancy.jpg)
    ![Average BMI vs Average life expectancy](BMI vs life expectancy.jpg)
