@@ -14,6 +14,8 @@ Using the Source Health Data, I produced some graphics in Tableau that showed th
 
 ### Results
 
+![Average BMI vs Average life expectancy](BMI vs life expectancy.jpg)   
+
 For each category, the visualistions of this data shows you at a glance the visual representation of what each analysis represents in terms of comparisons instead of having to trawl through hundreds or thousands of lines of raw data. 
 1. [Average life expectancy vs gender by continent](https://github.com/samborro/Tableau/blob/main/life%20expectancy%20vs%20gender%20by%20continent.jpg)
    ![](life expectancy vs gender by continent.jpg)
